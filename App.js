@@ -18,7 +18,7 @@ const appStackNavigator = createStackNavigator(
       }
     },
     Details: {
-      screen: DetailsScreen
+        screen: DetailsScreen
     }
   },
   {
